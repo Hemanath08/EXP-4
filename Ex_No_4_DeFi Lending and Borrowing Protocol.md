@@ -1,4 +1,6 @@
 # Experiment 4: DeFi Lending and Borrowing Protocol
+# Name: K.HEMANATH
+# Register No: 212223100012
 # Aim:
 To build a decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral. This experiment introduces concepts like overcollateralization, liquidity pools, and interest accrual in DeFi.
 
@@ -93,5 +95,18 @@ Introduces risk management: overcollateralization and liquidation.
 
 Directly related to DeFi protocols like Aave and Compound.
 
+# Deposit:
+
+<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/44884150-6443-47b3-928c-6aca839668cd" />
+
+# Collateral:
+
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/055632e6-c37c-4951-ba94-13fd14c5aba9" />
+
+# Borrow:
+
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/45a08759-ee92-42f5-b9d1-6e94d2c91380" />
+
 # RESULT : 
 
+The decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral is executed succesfully.
